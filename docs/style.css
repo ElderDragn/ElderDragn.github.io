@@ -1,0 +1,11 @@
+
+
+#HEADER {
+  background-color: gray;
+  margin: 0 auto;
+}
+
+
+.flex-container {
+  display: flex;
+}
